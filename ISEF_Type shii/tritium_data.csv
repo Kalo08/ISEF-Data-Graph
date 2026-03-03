@@ -1,0 +1,18 @@
+Year,Medium,Radionuclide,Location Name,Indicator/ Control,Distance (km),Mean Measurement (pCi/L),Fraction Detectable,Minimum (pCi/L),Maximum (pCi/L),LLD (pCi/L)
+2008,Groundwater,Tritium (H-3),MW-201,Indicator,0.3,415,0/4,330,500,500
+2009,Groundwater,Tritium (H-3),MW-201,Indicator,0.3,412,0/4,280,560,500
+2010,Groundwater,Tritium (H-3),MW-201,Indicator,0.3,7421,47/47,1140,17100,500
+2011,Groundwater,Tritium (H-3),MW-201,Indicator,0.3,4414,53/53,1260,10400,500
+2012,Groundwater,Tritium (H-3),MW-201,Indicator,0.3,2582,52/52,874,7410,500
+2013,Groundwater,Tritium (H-3),MW-201,Indicator,0.3,1297,51/52,443,2490,500
+2014,Groundwater,Tritium (H-3),MW-201,Indicator,0.3,741,42/52,352,1430,500
+2015,Groundwater,Tritium (H-3),MW-201,Indicator,0.3,425,0/4,220,560,500
+2016,Groundwater,Tritium (H-3),MW-201,Indicator,0.3,425,0/4,290,560,500
+2017,Groundwater,Tritium (H-3),MW-201,Indicator,0.3,425,0/4,290,560,500
+2018,Groundwater,Tritium (H-3),MW-201,Indicator,0.3,488,1/4,360,660,500
+2019,Groundwater,Tritium (H-3),MW-201,Indicator,0.3,473,1/4,400,540,500
+2020,Groundwater,Tritium (H-3),MW-201,Indicator,0.3,478,1/4,440,530,500
+2021,Groundwater,Tritium (H-3),MW-201,Indicator,0.3,465,1/4,420,540,500
+2022,Groundwater,Tritium (H-3),MW-201,Indicator,0.3,440,1/4,330,550,500
+2023,Groundwater,Tritium (H-3),MW-201,Indicator,0.3,468,1/4,390,540,500
+2024,Groundwater,Tritium (H-3),MW-201,Indicator,0.3,453,1/4,360,530,500
